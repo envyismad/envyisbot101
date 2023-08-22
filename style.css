@@ -83,7 +83,24 @@ a {
 }
 
 /* about us pero walang us */
+.col-img {
+     background-image: url(smd01.jpg);
+     background-position: center;
+     background-size: cover;
+     min-height: 500px;
 
+}
+
+
+
+
+
+
+
+
+
+
+/* services labanan */
 section {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -112,6 +129,7 @@ section {
     color: whitesmoke;
     font-size: 32px;
     border-radius: 100px;
+    flex: none;
 }
 
 .service {
