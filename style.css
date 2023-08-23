@@ -91,6 +91,8 @@ img {
      background-position: center;
      background-size: cover;
      min-height: 500px;
+     max-width: 45%;
+     margin-left: 5%;
 }
 
 
