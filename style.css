@@ -90,6 +90,7 @@ img {
      background-image: url(smd.jpg);
      background-position: center;
      background-size: cover;
+     border-radius: 50px;
      min-height: 500px;
      max-width: 45%;
      margin-left: 5%;
