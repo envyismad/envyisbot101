@@ -168,12 +168,12 @@ section {
 
 
 /* MERCHS anay */
-.merchs i {
+.package i {
   font-size: 20px;
   color: var(--dark);
 }
 
-.merchs ul li {
+.package ul li {
   margin-top: 8px;
 }
 
