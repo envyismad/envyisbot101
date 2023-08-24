@@ -168,7 +168,11 @@ section {
 
 
 
-/* MERCHS anay */
+/* Package anay */
+.Package {
+  background-color: rgb(193, 182, 197);
+}
+
 .package i {
   font-size: 20px;
   color: var(--dark);
@@ -220,6 +224,12 @@ section {
 
 
 /* TEAM NA harani na */
+#Team .team-member.card-effect {
+    background-color: rgb(163, 152, 167);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
 .team-member img {
     width: 175px;
     height: 175px;
@@ -262,7 +272,7 @@ form input.form-control {
 form .form-control {
     border: transparent;
     border-radius: 10px;
-    background-color: rgb(163, 152, 167);
+    background-color: rgb(183, 172, 187);
 }
 
 
